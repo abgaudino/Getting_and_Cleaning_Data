@@ -11,5 +11,5 @@
 
 #Directions
 	1. Download datasource (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) to folder on local drive. Extract data and move UCI HAR Dataset into working directory (optional.) 
-	2. Move run_analysis.R into UCI HAR Dataset (top folder.)
+	2. Move run_analysis.R into UCI Har Dataset (top folder.); set working directory to "UCI Har Dataset"
 	3. Run run_analysis.R
